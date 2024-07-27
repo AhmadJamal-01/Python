@@ -11,3 +11,11 @@
 #      index of 'fox' is 16
 #      'the' appears 2 times
     
+
+s = "the quick brown fox jumps over the lazy dog"
+
+index_fox = s.find("fox")
+print(f"index of 'fox' is {index_fox}")
+
+count_the = s.count("the")
+print(f"'the' appears {count_the} times")

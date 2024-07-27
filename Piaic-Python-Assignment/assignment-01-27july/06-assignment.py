@@ -9,3 +9,13 @@
 #      ```
 #      ["apple", "banana", "cherry", "dates"]
 #      apple banana cherry dates
+
+s = "apple,banana,cherry,dates"
+
+
+split_list = s.split(",")
+print(split_list)
+
+
+joined_string = " ".join(split_list)
+print(joined_string)

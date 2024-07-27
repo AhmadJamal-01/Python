@@ -9,3 +9,11 @@
 #    - **Expected Output:**
 #      ```
 #      Power result: 81
+
+
+base = 3
+exponent = 4
+
+# Compute base raised to the power of exponent
+power_result = base ** exponent
+print(f"Power result: {power_result}")

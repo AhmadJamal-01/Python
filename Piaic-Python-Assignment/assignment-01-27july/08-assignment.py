@@ -9,3 +9,9 @@
 #      ```
 #      Binary representation : 0b101101
 #      ```
+
+num = 45
+
+
+binary_representation = bin(num)
+print(f"Binary representation : {binary_representation}")

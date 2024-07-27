@@ -12,3 +12,15 @@
 #      Python is fun!
 #      Python is fun!*****
 #      *****Python is fun!
+
+s = "   Python is fun!   "
+
+
+stripped = s.strip()
+print(stripped)
+
+left_justified = stripped.ljust(20, '*')
+print(left_justified)
+
+right_justified = stripped.rjust(20, '*')
+print(right_justified)
