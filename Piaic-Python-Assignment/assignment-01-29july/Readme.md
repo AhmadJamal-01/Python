@@ -2,16 +2,16 @@
 
 Features
 
-Personalization -GPTs can be adjusted to follow specific styles, tones, or behaviors, making interactions more aligned with individual or business preferences.
-Task Optimization
-Integration with APIs and Tools
-Enhanced Privacy
+1)Personalization -GPTs can be adjusted to follow specific styles, tones, or behaviors, making interactions more aligned with individual or business preferences.
+2)Task Optimization
+3)Integration with APIs and Tools
+4)Enhanced Privacy
 
 
 Use Cases
 
-Customer Support
-Content Creation
-Education and Training
-Healthcare
-Software Development
+1)Customer Support
+2)Content Creation
+3)Education and Training
+4)Healthcare
+5)Software Development
