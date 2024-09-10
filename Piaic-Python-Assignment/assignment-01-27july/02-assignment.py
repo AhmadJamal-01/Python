@@ -13,6 +13,6 @@
 
 name:str = "Alice"
 age:int = 30
-city:str = "New York"
-formattedString = f"{name} is {age} years old and lives in {city}."
-print(formattedString)
+city:str= "Pakistan"
+
+print(f" {name} is {age} years old and lives in {city}.")

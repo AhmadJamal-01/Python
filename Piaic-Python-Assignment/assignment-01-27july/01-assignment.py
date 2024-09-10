@@ -21,8 +21,9 @@ chen_age = beth_age + 1
 drew_age = chen_age + 1
 ethan_age = chen_age
 
-print(f"Anton is {anton_age}")
-print(f"Beth is {beth_age}")
-print(f"Chen is {chen_age}")
-print(f"Drew is {drew_age}")
-print(f"Ethan is {ethan_age}")
+print (f"""Anton is {anton_age}
+Beth is {beth_age}
+Chen is {chen_age}
+Drew is {drew_age}
+Ethan is {ethan_age}
+""")

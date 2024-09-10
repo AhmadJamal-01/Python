@@ -10,7 +10,7 @@
 #      I love programming in Java
 #      ```
 
-s = "I love programming in Python"
+s = "I love programming in Python."
 
 
 replaced = s.replace("Python", "Java")

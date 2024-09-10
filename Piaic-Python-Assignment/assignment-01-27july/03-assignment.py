@@ -16,7 +16,7 @@
 
 name = "hElLo WoRlD"
 
-# Capitalize the first letter and make the rest lowercase
+# Capitalize the first letter
 capitalized = name.capitalize()
 print(capitalized)
 

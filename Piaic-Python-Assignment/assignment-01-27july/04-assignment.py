@@ -19,3 +19,15 @@ print(f"index of 'fox' is {index_fox}")
 
 count_the = s.count("the")
 print(f"'the' appears {count_the} times")
+
+
+
+#  Self Practice
+
+# name:str= "Ahmad jamal how are you where you live"
+
+# check_index=name.find("how")
+# print(check_index) 
+
+# count_name= name.count("you")
+# print(count_name)
