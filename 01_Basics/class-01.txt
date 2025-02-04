@@ -1,7 +1,0 @@
-Install Anaconda 
-Search(In Search Bar) Anaconda Prompt 
-Python --version
-python(write)
-write(print("bilal") )
-
-Japitto notebook
